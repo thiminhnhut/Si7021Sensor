@@ -16,9 +16,6 @@
     "export": {
         "include": "Si7021Sensor"
     },
-    "dependencies": {
-        "SI7021": "LowPowerLab/SI7021"
-    },
     "frameworks": "arduino",
     "platforms": [
         "atmelavr",

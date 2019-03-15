@@ -1,0 +1,27 @@
+{
+    "name": "Si7021Sensor",
+    "keywords": "Si7021Sensor",
+    "description": "Si7021 Sensor for Arduino, ESP8266",
+    "authors": {
+        "name": "thiminhnhut",
+        "email": "thiminhnhut@gmail.com",
+        "url": "https://github.com/thiminhnhut",
+        "maintainer": true
+    },
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thiminhnhut/Si7021Sensor.git"
+    },
+    "export": {
+        "include": "Si7021Sensor"
+    },
+    "dependencies": {
+        "SI7021": "LowPowerLab/SI7021"
+    },
+    "frameworks": "arduino",
+    "platforms": [
+        "atmelavr",
+        "espressif8266"
+    ]
+}

@@ -1,0 +1,11 @@
+.pio
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+include
+lib
+test
+.travis.yml
+platformio.ini
+docs
